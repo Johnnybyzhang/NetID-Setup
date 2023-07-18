@@ -43,7 +43,7 @@
 
 ## MFA相关常见问题
 
-* Duo Mobile 安卓/鸿蒙系统安装链接：
+* Duo Mobile 安卓/鸿蒙系统安装链接[镜像](https://people.dukekunshan.edu.cn/~bz106/DuoMobile-4.44.0.apk)：
 * [https://dl.duosecurity.com/DuoMobile-latest.apk](https://dl.duosecurity.com/DuoMobile-latest.apk) MFA的软件可以在电脑上安装吗？不行。
 * 显示6位验证码/Successful界面就是设置好了
 * 二维码在哪里？MFA的设置过程中会出现，找不到等一等或者往下翻一翻网页。
