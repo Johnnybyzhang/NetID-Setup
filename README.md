@@ -2,7 +2,7 @@
 
 作者：Zheng Zeng & Boyan Zhang
 
-打开该文档请从这里开始 [Onboarding](Onboarding.md)
+# 打开该文档请从这里开始 [Onboarding](Onboarding.md)
 
 ## 以下为常见问题和对应解决方案
 
