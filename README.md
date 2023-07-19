@@ -4,6 +4,10 @@
 
 # 打开该文档请从这里开始 [Onboarding](Onboarding.md)
 
+## 近期有校外人员伪装为DKU IT人员骗取个人信息，请多加警惕并注意甄别
+
+如果存在声称自己是DKU IT的人员，请立刻通过邮件联系IT Service Desk。
+
 ## 以下为常见问题和对应解决方案
 
 ### NetID
