@@ -5,6 +5,7 @@
     * macOS可以用Safari, Chrome和Firefox，Safari下设置一次可以在所有支持“通行密钥”的设备上使用
     * iOS/iPad OS可以使用Safari，有Face ID/Touch ID即可设置
     * Android/鸿蒙使用Chrome/Firefox/Edge，有指纹识别/人脸识别即可设置
+       * 一些鸿蒙系统设备疑似不支持这一功能，建议自行尝试
 2. 打开页面后选Yes，随后出现绿字即为可以注册Duke Unlock，红字则为平台不支持，可以试着更换浏览器/检查设备设置&#x20;
 
 <figure><img src="https://s1.ax1x.com/2023/07/18/pCTAfqe.jpg" alt=""><figcaption><p>Avaliability Check</p></figcaption></figure>
