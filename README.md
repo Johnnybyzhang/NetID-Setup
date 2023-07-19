@@ -17,7 +17,7 @@
 * Password 显示 valid 后再进下一步
 * 双 Unsuccessful，Error reason: Authentication failed for xx\*\*\*
   * 一般为已经有过一次 Password Update: Successful，重进链接后 current password 写 successful 这次设置的密码
-  * 如果确实没有设置成功过，发邮件给[service-desk@dku.edu.cn](https://service-desk@dku.edu.cn)，邮件内包含你的姓名，NetID和联系方式，并说明情况，Service Desk会为你重新生成一个一次性链接
+  * 如果确实没有设置成功过，发邮件给[service-desk@dku.edu.cn](mailto:service-desk@dku.edu.cn)，邮件内包含你的姓名，NetID和联系方式，并说明情况，Service Desk会为你重新生成一个一次性链接
 * 如多次尝试密码均错误，建议重置密码。DUID (Duke Unique ID) 请通过 [directory.duke.edu](https://directory.duke.edu/) 使用自己的名字查询。
   * 请核对 NetID，以确认检索到的为自己的信息。  
 
